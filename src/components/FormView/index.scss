@@ -1,0 +1,10 @@
+.form-view-container {
+  .code-editor {
+    border: 0.5px solid #d9d9d9;
+    border-radius: 6px;
+
+    .cm-editor {
+      background-color: unset;
+    }
+  }
+}

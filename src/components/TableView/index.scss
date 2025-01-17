@@ -1,0 +1,24 @@
+@import "../../styles/variables.scss";
+
+.table-view-container {
+  .table-search-btn {
+    max-width: 300px;
+    min-width: 120px;
+  }
+
+  .table-view-header-right {
+    height: 100%;
+
+    @media (max-width: $screen-xs) {
+      justify-content: space-between;
+    }
+  }
+
+  .truncate-text {
+    display: block;
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

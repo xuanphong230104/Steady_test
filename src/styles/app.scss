@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.centered-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component-loading {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ant-typography {
+  margin: 16px 0px;
+}
