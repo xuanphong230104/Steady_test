@@ -50,7 +50,7 @@ const Login = (props) => {
       </Col>
       <Col xs={24} md={12} className="login-right">
         <Flex vertical justify="center" gap="middle">
-          <Title>Login</Title>
+          <Title>Logindfsdfsdfsdfsd</Title>
           <Form
             name="sign-up-form"
             layout="vertical"
